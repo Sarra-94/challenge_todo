@@ -1,0 +1,25 @@
+/* Style the list */
+li {
+  font-size: larger;
+  list-style: none;
+  color: #262626;
+  font-weight: bold;
+  background-color: lightgray;
+  padding: 1rem;
+  border-bottom: 1px solid #26262633;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Style the remove Button */
+.removeBtn {
+  padding: 0.4rem;
+  margin-left: 0.5rem;
+  font-weight: bold;
+  background-color: transparent;
+  border: none;
+  color: #262626;
+  text-align: center;
+  cursor: pointer;
+}
